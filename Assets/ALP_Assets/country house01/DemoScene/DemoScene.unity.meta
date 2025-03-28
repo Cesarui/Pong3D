@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: e9ccad99b7b8f6043a28102861b33611
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/DemoScene/DemoScene.unity
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a781c250f9944cd6340874e8aa987243559d69c6e091763e156676c83e2e56b
+size 361

@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: d73f092e661a4de4d8ad8c54a457ccd9
-timeCreated: 1533768198
-licenseType: Store
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/Materials/Glass.mat
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e7069f67b0df64ff4f3103cef56a75ee378d1df3a838d660246cf04a375042
+size 431

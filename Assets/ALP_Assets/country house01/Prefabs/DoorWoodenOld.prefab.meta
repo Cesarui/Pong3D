@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 491c90fa5c2af4a42b7dcc5aca368c5a
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/Prefabs/DoorWoodenOld.prefab
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:87afdd43eeb1c52833b54cf74655159e087a5beb10b171233ce08c285814085a
+size 363

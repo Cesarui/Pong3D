@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: ea94bc05f4e812349a43dff1264c21ec
-timeCreated: 1435644747
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 40538
-  packageName: Lowpoly Piece of Nature
-  packageVersion: 1.1
-  assetPath: Assets/A_piece_of_nature/Materials/Grass.mat
-  uploadId: 698042
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a09d74b1c41996eeed47297431b481d5a109cff63c15a37566301486fa6ccf1
+size 374

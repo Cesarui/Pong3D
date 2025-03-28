@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3fd0805e8dc454844ae22682f7b8730b
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/Materials/New Material.mat
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd5a328d3a4f4972cfa2b409f9c24779c76d0032cfb9c5d4cb2330f93a0df35
+size 395

@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: b94a330bb0db9d04294f2eeb76b7f73a
-timeCreated: 1533768198
-licenseType: Store
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/Materials/OldHouseMapIndoorWall01.mat
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bdbe295de1af4c6d9cfc12b5c3487506b4d72849e66e5c2ceef5fb2ac44d728
+size 449

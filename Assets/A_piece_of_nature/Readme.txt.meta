@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f7ddf5b2d74156045b7ef4eb5e55faef
-timeCreated: 1435657673
-licenseType: Store
-TextScriptImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 40538
-  packageName: Lowpoly Piece of Nature
-  packageVersion: 1.1
-  assetPath: Assets/A_piece_of_nature/Readme.txt
-  uploadId: 698042
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5677f5603cc42c307840761edb558bc0df285a610ecfd2e2c39dadd2523aef1
+size 363

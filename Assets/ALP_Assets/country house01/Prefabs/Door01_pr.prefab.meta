@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2d52b71e89a086a47873fd6961dd08cc
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 125731
-  packageName: "\u0421ountry house"
-  packageVersion: 1.1
-  assetPath: Assets/ALP_Assets/country house01/Prefabs/Door01_pr.prefab
-  uploadId: 607083
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b3250df0119ac4af137ab66946885527563c3791d79f7b7363ccdb13bfa808
+size 359
